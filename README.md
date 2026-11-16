@@ -1,48 +1,48 @@
-# Hello! Saluton! Здравствуйте! Komdu sæll og blessaður! 👋🏿
+# Hello! Saluton! Здравствуйте! Komdu sæll og blessaður! 👋🏼
 
-👨🏿‍💻 I'm **Jimkelly**, a software engineer who enjoys building things, exploring how technology works, and learning new languages (both human and programming languages).
+👨🏼‍💻 I'm **Jim Kelly**, a software engineer who enjoys building things, understanding how technology works, and learning new languages, both human and programming languages.
 
-I build mobile and web applications, primarily with **Flutter, Dart, TypeScript, and Next.js**. I'm also a **Modern C++ enthusiast**, particularly interested in concurrency, multithreading, and systems programming.
+My work spans mobile and web development, primarily using **Flutter, Dart, TypeScript, and Next.js**. I also have a particular interest in **Modern C++**, especially concurrency, multithreading, and systems programming.
 
-I enjoy moving between high-level application development and lower-level engineering problems. There's always something new to learn.
+I enjoy moving between high-level application development and lower-level engineering problems. There's always something interesting to learn.
 
 ---
 
-## 🧰 Languages & Technologies
-
-### 📱 Mobile Development
-
-[![Flutter](https://img.shields.io/badge/FLUTTER-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/DART-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-
-### 🌐 Web Development
-
-[![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-[![Next.js](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org)
+## 🛠️ Technologies & Tools
 
 ### ⚙️ Modern C++ & Systems Programming
 
-[![C++](https://img.shields.io/badge/MODERN_C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org)
-[![CMake](https://img.shields.io/badge/CMAKE-064F8C?style=for-the-badge&logo=cmake&logoColor=white)](https://cmake.org)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://isocpp.org)
+[![CMake](https://skillicons.dev/icons?i=cmake)](https://cmake.org)
+
+**Areas of interest:** Modern C++, concurrency, multithreading, mutexes, shared state management, and synchronization.
+
+Currently exploring **SFML**, with an interest in multimedia and graphics programming.
+
 [![SFML](https://img.shields.io/badge/SFML-8CC445?style=for-the-badge&labelColor=20232A)](https://www.sfml-dev.org/)
 
-Particularly interested in concurrency, multithreading, synchronization, shared state management, and writing safe concurrent software.
+### 📱 Mobile Development
 
-Currently exploring **SFML** and its possibilities for multimedia and graphics programming.
+[![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev)
+[![Dart](https://skillicons.dev/icons?i=dart)](https://dart.dev)
+
+### 🌐 Web Development
+
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
 
 ### ☁️ Backend & Infrastructure
 
-[![Supabase](https://img.shields.io/badge/SUPABASE-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)](https://supabase.com)
-[![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)](https://aws.amazon.com/s3/)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
+[![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
 
-### 🔧 Tools & Workflow
+### 🔧 Tools
 
-[![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Codemagic](https://img.shields.io/badge/CODEMAGIC-3C3C3C?style=for-the-badge&logo=codemagic&logoColor=white)](https://codemagic.io)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
 
 ---
 
@@ -52,30 +52,32 @@ Currently exploring **SFML** and its possibilities for multimedia and graphics p
 
 A multithreaded ride-hailing simulation built with Modern C++.
 
-Explores concurrent programming, hierarchical mutexes layered over `std::shared_mutex`, shared state management, and deadlock avoidance.
+The project explores concurrent programming, hierarchical mutexes layered over `std::shared_mutex`, shared state management, and deadlock avoidance.
 
-**Technologies:** Modern C++, CMake, Multithreading.
+**Built with:** Modern C++, CMake.
 
 ### [Travel Protocol](https://ethglobal.com/showcase/travel-protocol-1skiq)
 
-A project submitted to ETHGlobal Brussels 2024 with the MobiFi team.
+A project developed with the MobiFi team for ETHGlobal Brussels 2024.
 
 **Recognition:**
-- 🥇 Best ZK dApp — Polygon
-- 🏆 Most Creative Use Case — Worldcoin
+- 🏆 Best ZK dApp, Polygon
+- 🏆 Most Creative Use Case, Worldcoin
+
+[Explore the project](https://ethglobal.com/showcase/travel-protocol-1skiq)
 
 ---
 
 ## 🏆 Recognition
 
-**ETHGlobal Brussels 2024** · July 12–14, 2024
+**ETHGlobal Brussels 2024**
 
-Two prizes for Travel Protocol:
+Two prize-winning categories with the MobiFi team:
 
-- Best ZK dApp (Polygon)
-- Most Creative Use Case (Worldcoin)
+- Best ZK dApp, Polygon
+- Most Creative Use Case, Worldcoin
 
-[View project on ETHGlobal](https://ethglobal.com/showcase/travel-protocol-1skiq) · [View certificate](assets/ethglobal-brussels-2024-certificate.pdf)
+[View certificate](assets/ethglobal-brussels-2024-certificate.pdf)
 
 ---
 
@@ -92,5 +94,6 @@ Two prizes for Travel Protocol:
 
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimkelly-nzioka-3890b33b2)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sleepersubject13)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jimkelly-nzioka-3890b33b2)
+
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/sleepersubject13)
