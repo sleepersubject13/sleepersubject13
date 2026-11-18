@@ -35,14 +35,18 @@ Currently exploring **SFML**, with an interest in multimedia and graphics progra
 
 ### ☁️ Backend & Infrastructure
 
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com)
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
+
+**Experience:** Working with containerized development environments, running backend services locally with Docker, and integrating REST APIs.
 
 ### 🔧 Tools
 
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
 
 ---
 
@@ -83,7 +87,7 @@ Two prize-winning categories with the MobiFi team:
 
 ## 🌱 Currently Exploring
 
-- Modern C++ and concurrency
+- Modern C++ and advanced concurrency
 - Multithreaded architectures and synchronization
 - SFML and multimedia programming
 - Systems programming
