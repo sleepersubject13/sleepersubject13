@@ -1,4 +1,4 @@
-# Hello! Saluton! Здравствуйте! Komdu sæll og blessaður! 👋🏼
+# Hello! Hej! Saluton! Здравствуйте! Komdu sæll og blessaður! 👋🏼
 
 👨🏼‍💻 I'm **Jim Kelly**, a software engineer who enjoys building things, understanding how technology works, and learning new languages, both human and programming languages.
 
